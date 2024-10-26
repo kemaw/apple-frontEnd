@@ -1,15 +1,7 @@
-// import { useState } from 'react'
-// import "./css/styles.css";
-// import "./css/bootstrap.css";
-// import "./App.css"
+
 import Header from "./components/Header/Header";
 import Alerts from "./components/Alerts/Alerts";
-// import SectionOne from "./components/SectionOne/SectionOne";
-// import SectionTwo from "./components/SectionTwo/SectionTwo";
-// import SectionThree from "./components/SectionThree/SectionThree";
-// import SectionFour from "./components/SectionFour/SectionFour";
-// import SectionFive from "./components/SectionFive/SectionFive";
-// import SectionSix from "./components/SectionSix/SectionSix";
+
 import Footer from "./components/Footer/Footer";
 // import YouTube from "./components/YouTube/YouTube";
 import { Route, Routes } from "react-router-dom";
