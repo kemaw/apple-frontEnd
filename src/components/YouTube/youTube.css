@@ -1,0 +1,21 @@
+.singleVideoWrapper{
+    background: #f3f2f2;
+    box-shadow: 4px 0px 13px rgba(158, 158, 158, 0.12);
+    margin-bottom: 30px;
+    max-height: 393px;
+    overflow: hidden;
+    display: inline-block;/
+    
+}
+.desc-wrapper{
+    font-size: 6em;
+    color: #676767;
+}
+.title-wrapper{
+    font-weight: 700;
+    line-height: 1.2em;
+}
+
+.singleVideoWrapper a{
+    color: #000;
+}
