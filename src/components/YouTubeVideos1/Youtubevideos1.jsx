@@ -8,7 +8,7 @@ function Youtubevideos1() {
     {fetch(
     //   "https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UCE_M8A5yxnLfW0KghEeajjw&maxResults=8&order=date&key=AIzaSyBvv35aQ2CFtx5x90g1_lJM0-h2zV9yZ8I"
 
-     "https://www.googleapis.com/youtube/v3/search?key=AIzaSyDt2NdgQr_KWeA-C2mshDXWKJIOGYJcJLk&channelId=UCE_M8A5yxnLfW0KghEeajjw&part=snippet,id&order=date&maxResults=8"
+     "https://www.googleapis.com/youtube/v3/search?key={API_KEY}=UCE_M8A5yxnLfW0KghEeajjw&part=snippet,id&order=date&maxResults=8"
     )
       .then((response) => response.json())
       .then((data) => 
